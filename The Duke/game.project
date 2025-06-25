@@ -16,5 +16,7 @@ input_method = HiddenInputField
 scale_mode = stretch
 
 [project]
-title = the-duke
+title = The Duke
+developer = Morgan Sage Blackwood
+dependencies#0 = https://github.com/defold/extension-websocket/archive/3.0.0.zip
 

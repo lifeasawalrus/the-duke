@@ -6,12 +6,24 @@
         :scene
       ]
       [
+        "/README.md"
+        :html
+      ]
+      [
+        "/nakama/nakama.lua"
+        :code
+      ]
+      [
+        "/main/nakama_client.lua"
+        :code
+      ]
+      [
         "/game.project"
         :cljfx-form-view
       ]
       [
-        "/README.md"
-        :html
+        "/crypt/api/crypt.script_api"
+        :code
       ]
     ]
   }

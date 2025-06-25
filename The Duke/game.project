@@ -19,4 +19,9 @@ scale_mode = stretch
 title = The Duke
 developer = Morgan Sage Blackwood
 dependencies#0 = https://github.com/defold/extension-websocket/archive/3.0.0.zip
+dependencies#1 = https://github.com/heroiclabs/nakama-defold/archive/refs/tags/v3.4.0.zip
+dependencies#2 = https://github.com/defold/extension-crypt/archive/refs/tags/1.0.2.zip
+
+[library]
+include_dirs = 
 

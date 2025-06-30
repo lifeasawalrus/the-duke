@@ -18,12 +18,12 @@
         :code
       ]
       [
-        "/game.project"
-        :cljfx-form-view
-      ]
-      [
         "/crypt/api/crypt.script_api"
         :code
+      ]
+      [
+        "/game.project"
+        :cljfx-form-view
       ]
     ]
   }

@@ -1,0 +1,35 @@
+embedded_components {
+  id: "model"
+  type: "model"
+  data: "mesh: \"/assets/game_tiles/dukeLite.glb\"\n"
+  "name: \"{{NAME}}\"\n"
+  "materials {\n"
+  "  name: \"woodMaterial\"\n"
+  "  material: \"/builtins/materials/model.material\"\n"
+  "  textures {\n"
+  "    sampler: \"tex0\"\n"
+  "    texture: \"/assets/game_tiles/lightwood.jpg\"\n"
+  "  }\n"
+  "}\n"
+  "materials {\n"
+  "  name: \"topFace\"\n"
+  "  material: \"/builtins/materials/model.material\"\n"
+  "  textures {\n"
+  "    sampler: \"tex0\"\n"
+  "    texture: \"/assets/game_tiles/dukeLightAtlas.png\"\n"
+  "  }\n"
+  "}\n"
+  "materials {\n"
+  "  name: \"bottomFace\"\n"
+  "  material: \"/builtins/materials/model.material\"\n"
+  "  textures {\n"
+  "    sampler: \"tex0\"\n"
+  "    texture: \"/assets/game_tiles/dukeLightAtlas.png\"\n"
+  "  }\n"
+  "}\n"
+  ""
+  rotation {
+    x: 0.70710677
+    w: 0.70710677
+  }
+}

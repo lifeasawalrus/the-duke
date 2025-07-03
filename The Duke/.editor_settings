@@ -2,10 +2,6 @@
   :workflow {
     :recent-files [
       [
-        "/main/main.collection"
-        :scene
-      ]
-      [
         "/README.md"
         :html
       ]
@@ -22,8 +18,96 @@
         :code
       ]
       [
+        "/satori/satori.lua"
+        :code
+      ]
+      [
+        "/nakama/socket.lua"
+        :code
+      ]
+      [
         "/game.project"
         :cljfx-form-view
+      ]
+      [
+        "/main/main.collection"
+        :scene
+      ]
+      [
+        "/assets/game_tiles/dukeDark.dae"
+        :scene
+      ]
+      [
+        "/main/player_tiles/duke-white.go"
+        :scene
+      ]
+      [
+        "/materials/model.fp"
+        :code
+      ]
+      [
+        "/materials/model.material"
+        :cljfx-form-view
+      ]
+      [
+        "/materials/face.vp"
+        :code
+      ]
+      [
+        "/materials/face.material"
+        :text
+      ]
+      [
+        "/builtins/materials/model.material"
+        :cljfx-form-view
+      ]
+      [
+        "/materials/face.material"
+        :cljfx-form-view
+      ]
+      [
+        "/materials/model_lit.material"
+        :cljfx-form-view
+      ]
+      [
+        "/custom/model_lit.fp"
+        :code
+      ]
+      [
+        "/custom/model_lit.vp"
+        :code
+      ]
+      [
+        "/custom/model_lit.material"
+        :cljfx-form-view
+      ]
+      [
+        "/main/player_tiles/dukeDark/dukeDark.go"
+        :scene
+      ]
+      [
+        "/main/player_tiles/dukeLite/dukeLite.go"
+        :scene
+      ]
+      [
+        "/main/footmanDark.go"
+        :scene
+      ]
+      [
+        "/main/player_tiles/dukeDark.go"
+        :scene
+      ]
+      [
+        "/main/player_tiles/footmanDark.go"
+        :scene
+      ]
+      [
+        "/main/player_tiles/footmanLite.go"
+        :scene
+      ]
+      [
+        "/main/player_tiles/dukeLite.go"
+        :scene
       ]
     ]
   }

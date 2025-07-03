@@ -58,10 +58,6 @@
         :text
       ]
       [
-        "/builtins/materials/model.material"
-        :cljfx-form-view
-      ]
-      [
         "/materials/face.material"
         :cljfx-form-view
       ]
@@ -94,10 +90,6 @@
         :scene
       ]
       [
-        "/main/player_tiles/dukeDark.go"
-        :scene
-      ]
-      [
         "/main/player_tiles/footmanDark.go"
         :scene
       ]
@@ -107,6 +99,30 @@
       ]
       [
         "/main/player_tiles/dukeLite.go"
+        :scene
+      ]
+      [
+        "/assets/board/dukeBoard.dae"
+        :scene
+      ]
+      [
+        "/assets/board/board.material"
+        :cljfx-form-view
+      ]
+      [
+        "/builtins/materials/model.material"
+        :text
+      ]
+      [
+        "/builtins/materials/model.material"
+        :cljfx-form-view
+      ]
+      [
+        "/main/board.go"
+        :scene
+      ]
+      [
+        "/main/player_tiles/dukeDark.go"
         :scene
       ]
     ]

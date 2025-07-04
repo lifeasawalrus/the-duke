@@ -114,15 +114,15 @@
         :text
       ]
       [
+        "/main/player_tiles/dukeDark.go"
+        :scene
+      ]
+      [
         "/builtins/materials/model.material"
         :cljfx-form-view
       ]
       [
         "/main/board.go"
-        :scene
-      ]
-      [
-        "/main/player_tiles/dukeDark.go"
         :scene
       ]
     ]

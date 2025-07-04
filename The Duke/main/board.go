@@ -5,7 +5,7 @@ embedded_components {
   "name: \"{{NAME}}\"\n"
   "materials {\n"
   "  name: \"dukeBoard\"\n"
-  "  material: \"/builtins/materials/model.material\"\n"
+  "  material: \"/assets/materials/general.material\"\n"
   "  textures {\n"
   "    sampler: \"tex0\"\n"
   "    texture: \"/assets/board/dukeBoardColored.png\"\n"

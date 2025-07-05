@@ -2,10 +2,6 @@
   :workflow {
     :recent-files [
       [
-        "/README.md"
-        :html
-      ]
-      [
         "/nakama/nakama.lua"
         :code
       ]
@@ -28,10 +24,6 @@
       [
         "/game.project"
         :cljfx-form-view
-      ]
-      [
-        "/main/main.collection"
-        :scene
       ]
       [
         "/assets/game_tiles/dukeDark.dae"
@@ -102,24 +94,12 @@
         :text
       ]
       [
-        "/main/player_tiles/dukeDark.go"
-        :scene
-      ]
-      [
         "/builtins/materials/model.material"
         :cljfx-form-view
       ]
       [
         "/assets/materials/general.material"
         :cljfx-form-view
-      ]
-      [
-        "/main/board.go"
-        :scene
-      ]
-      [
-        "/main/player_tiles/dukeDark.go"
-        :scene
       ]
       [
         "/main/player_tiles/dukeLite.go"
@@ -131,6 +111,18 @@
       ]
       [
         "/main/player_tiles/footmanLite.go"
+        :scene
+      ]
+      [
+        "/main/player_tiles/dukeDark.go"
+        :scene
+      ]
+      [
+        "/main/board.go"
+        :scene
+      ]
+      [
+        "/main/main.collection"
         :scene
       ]
     ]

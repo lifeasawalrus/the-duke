@@ -22,10 +22,6 @@
         :code
       ]
       [
-        "/game.project"
-        :cljfx-form-view
-      ]
-      [
         "/assets/game_tiles/dukeDark.dae"
         :scene
       ]
@@ -118,12 +114,16 @@
         :scene
       ]
       [
+        "/main/main.collection"
+        :scene
+      ]
+      [
         "/main/board.go"
         :scene
       ]
       [
-        "/main/main.collection"
-        :scene
+        "/game.project"
+        :cljfx-form-view
       ]
     ]
   }

@@ -114,16 +114,16 @@
         :scene
       ]
       [
-        "/main/main.collection"
-        :scene
-      ]
-      [
         "/main/board.go"
         :scene
       ]
       [
         "/game.project"
         :cljfx-form-view
+      ]
+      [
+        "/main/main.collection"
+        :scene
       ]
     ]
   }
